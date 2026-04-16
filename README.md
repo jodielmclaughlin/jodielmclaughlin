@@ -6,7 +6,7 @@
   I'm Jodie and I am working on a career change into Software Development!
 </p>
 <p align="center">
-- 🌱 Currently learning C# through the NorthCoders Enterprise Engineering Bootcamp
+- 🌱 Currently learning C# through the Northcoders Enterprise Engineering Bootcamp
 </p>
 <p align="center">
 I'm at the very start of my coding journey, but I am excited to be learning more everyday!
