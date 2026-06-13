@@ -1,43 +1,51 @@
-<h1 align="center">
-   Hi there 👋
-</h1>
+<h1 align="center">Hey, I'm Jodie 👋</h1> 
 
-<p align="center">
-  I'm Jodie and I am working on a career change into Software Development!
-</p>
-<p align="center">
-- 🌱 Completed the Northcoders Enterprise Engineering Bootcamp.
-</p>
-<p align="center">
-I'm at the very start of my coding journey, but I am excited to be learning more everyday!
-</p>
-Tech Stack:
+<h3 align="center"> Aspiring Software Developer | Career Changer | Lifelong Learner </h3> 
 
-![C#](https://img.shields.io/badge/C%23-black?style=plastic&color=green)
-![.Net](https://img.shields.io/badge/.Net_Framework-black?style=plastic&logo=.Net&labelColor=black&color=yellow)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=plastic&logo=HTML5&logoColor=white&labelColor=black&color=blue)
-![CSS](https://img.shields.io/badge/CSS-black?style=plastic&logo=CSS&logoColor=purple&labelColor=black&color=purple)
-![Blazor](https://img.shields.io/badge/Blazor-black?style=plastic&logo=Blazor&logoColor=purple&labelColor=black&color=purple)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
+<p align="center"> Completed the Northcoders Enterprise Engineering Bootcamp and currently building my skills through personal projects and continuous learning. </p>
 
+--- 
 
-<p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</p>
+## About Me 
 
-<!--
-**jodielmclaughlin/jodielmclaughlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After spending years building skills in other industries, I've recently made the leap into Software Development and haven't looked back. 
 
-Here are some ideas to get you started:
+I enjoy solving problems through code, creating user-focused applications, and continuously improving my knowledge of modern development practices. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Northcoders Enterprise Engineering Graduate
+- 🔄 Career changer passionate about technology
+- 🌱 Currently expanding my skills in C# and .NET
+- 🎵 Often coding with music playing in the background
+- ☕ Powered by coffee and curiosity
+
+---
+
+## 🛠 Tech Stack 
+
+<p align="center"> 
+   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white%22" /> 
+   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p> 
+   
+   --- 
+   
+   ## 🌱 Currently Learning 
+   
+   ```csharp
+public class Jodie
+{ 
+   public string CurrentFocus => ".NET Development";
+   public string[] Learning =>
+   [ 
+      "Clean Architecture",
+      "REST APIs",
+      "SQL",
+      "Blazor",
+      "Testing"
+   ];
+}
