@@ -20,7 +20,7 @@ I enjoy solving problems through code, creating user-focused applications, and c
 
 ---
 
-## 🛠 Tech Stack 
+## Tech Stack 
 
 <p align="center"> 
    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> 
@@ -34,7 +34,7 @@ I enjoy solving problems through code, creating user-focused applications, and c
    
    --- 
    
-   ## 🌱 Currently Learning 
+   ## Currently Learning 
    
    ```csharp
 public class Jodie
@@ -49,3 +49,20 @@ public class Jodie
       "Testing"
    ];
 }
+```
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodielmclaughlin&layout=compact&theme=transparent" />
+</p>
+
+## Let's Connect
+
+I'm always happy to connect with other developers, share experiences, and learn from people in the industry.
+
+Feel free to check out my repositories or reach out!
+<p align="center">
+  <a href="https://www.linkedin.com/in/jodie-mclaughlin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
