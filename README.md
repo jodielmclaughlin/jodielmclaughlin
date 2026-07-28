@@ -34,7 +34,7 @@ I enjoy solving problems through code, creating user-focused applications, and c
    
    --- 
    
-   ## Currently Learning 
+<!---   ## Currently Learning 
    
    ```csharp
 public class Jodie
@@ -49,12 +49,12 @@ public class Jodie
       "Testing"
    ];
 }
-```
-## GitHub Stats
+```--->
 
+## GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodielmclaughlin&layout=compact&theme=transparent" />
-</p>
+<img src="https://ghstats.dev/api/card?username=jodielmclaughlin&theme=tokyonight&size=compact&hide=stars%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cactive_day%2Cissues" alt="GitHub Stats Card" />
+<p>
 
 ## Let's Connect
 
