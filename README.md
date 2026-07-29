@@ -14,7 +14,7 @@ I enjoy solving problems through code, creating user-focused applications, and c
 
 - 🎓 Northcoders Enterprise Engineering Graduate
 - 🔄 Career changer passionate about technology
-- 🌱 Currently expanding my skills in C# and .NET
+- 🌱 Currently expanding my skills in C#, .NET, Typescript and React
 - 🎵 Often coding with music playing in the background
 - ☕ Powered by coffee and curiosity
 
