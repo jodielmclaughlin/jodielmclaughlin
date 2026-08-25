@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jodie 👋</h1> 
 
-<h3 align="center"> Aspiring Software Developer | Career Changer | Lifelong Learner </h3> 
+<h3 align="center"> Junior Software Developer | Career Changer | Lifelong Learner </h3> 
 
 <p align="center"> Completed the Northcoders Enterprise Engineering Bootcamp and currently building my skills through personal projects and continuous learning. </p>
 
