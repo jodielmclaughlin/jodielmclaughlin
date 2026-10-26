@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Jodie 👋</h1> 
 
-<h3 align="center"> Junior Software Developer | Career Changer | Lifelong Learner </h3> 
+<h3 align="center"> Test Engineer | Test Automation | Lifelong Learner </h3> 
 
 <p align="center"> Building reliable software through personal projects, automation, and continuous learning. </p>
 
